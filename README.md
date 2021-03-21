@@ -44,3 +44,27 @@
     * HTML / CSS / Javascript
     * JQuery, Bootstrap
     * Vue.js  
+
+- 실행 화면
+ * admin <br>
+   <img src="/images/admin/01.png" width="900" height="900"></img><br><br>
+   <img src="/images/admin/02.png" width="900" height="900"></img><br><br>
+   <img src="/images/admin/03.png" width="900" height="900"></img><br><br>
+   <img src="/images/admin/04.png" width="900" height="900"></img><br><br>
+   <img src="/images/admin/05.png" width="900" height="900"></img><br><br>
+   <img src="/images/admin/06.png" width="900" height="900"></img><br><br>
+   <img src="/images/admin/07.png" width="900" height="900"></img><br><br>
+   <img src="/images/admin/08.png" width="900" height="900"></img><br><br>
+   <img src="/images/admin/09.png" width="900" height="900"></img><br><br>
+   <img src="/images/admin/10.png" width="900" height="900"></img><br><br>
+   <img src="/images/admin/11.png" width="900" height="900"></img><br><br>
+   <img src="/images/admin/12.png" width="900" height="900"></img><br><br>
+   <img src="/images/admin/13.png" width="900" height="900"></img><br><br>
+ * customer <br>
+   <img src="/images/customer/01.png" width="900" height="900"></img><br><br>
+   <img src="/images/customer/02.png" width="900" height="900"></img><br><br>
+   <img src="/images/customer/03.png" width="900" height="900"></img><br><br>
+ * ceo <br>
+   <img src="/images/ceo/01.png" width="900" height="900"></img><br><br>
+   <img src="/images/ceo/02.png" width="900" height="900"></img><br><br>
+   <img src="/images/ceo/03.png" width="900" height="900"></img><br><br>
