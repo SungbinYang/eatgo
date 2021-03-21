@@ -39,6 +39,7 @@
     * Spring Security
     * Lombok
     * Docker
+    * 프로젝트 분리 작업 ( 모듈화 )
     
  - Frontend
     * HTML / CSS / Javascript
